@@ -56,7 +56,7 @@ def monopoly_with_fourth_tier
       :pieces => 4,
       :rent_in_dollars => {
         :one_piece_owned => 25,
-        :two_piece_owned => 50,
+        :two_pieces_owned => 50,
         :three_piece_owned => 100,
         :four_pieces_owned => 200
       },
